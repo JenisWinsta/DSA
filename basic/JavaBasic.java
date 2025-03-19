@@ -1,5 +1,3 @@
-package basic;
-
 import java.util.*;
 
 public class JavaBasic {
